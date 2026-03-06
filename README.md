@@ -6,7 +6,7 @@
     <td>
       <ul>
         <li>
-          <strong>Generative AI Developer</strong> •<strong> 13× Hackathon Winner</strong> • <strong>Founding Engineer</strong>
+          <strong>Generative AI Developer</strong> •<strong> 14× Hackathon Winner</strong> • <strong>Founding Engineer</strong>
         </li>
         <li>3 years of experience in software development.</li>
         <li>Building across <strong>Generative AI</strong> and the <strong>JS Ecosystem</strong>.</li>
@@ -35,6 +35,6 @@
 ---
 
 ### Achievements
-- 13× Global Hackathon Winner  
+- 14× Global Hackathon Winner  
 - 3× Ambassador, Evangelist & Volunteer  
 - 15K+ following on **LinkedIn + X (Twitter)**, sharing only tech content  
