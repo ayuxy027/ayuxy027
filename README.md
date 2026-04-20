@@ -25,6 +25,7 @@
 ### Experience
 | Role | Organization | Description |
 |------|---------------|-------------|
+| Member of Technical Staff | [@Genzab](https://genzab.ai) | Edtech study material generation using advanced AI and tooling |
 | Founding Engineer | [@Righthub](https://www.anaqua.com/resource/anaqua-acquires-righthub-to-accelerate-global-growth/) | Manages patents, trademarks & designs using AI |
 | Founding Engineer | [@Cashvertz](https://cashvertz.com) | Open-source Offer18 alternative (₹25L+ monthly revenue) |
 | SDE Intern | [@Invisible](https://invisible.af) | UI/UX agency for rapid prototyping |
