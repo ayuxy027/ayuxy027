@@ -10,7 +10,7 @@
         </li>
         <li>3 years of experience in software development.</li>
         <li>Building across <strong>Generative AI</strong> and the <strong>JS Ecosystem</strong>.</li>
-        <li>Check my work → <a href="https://thatayush.dev"><strong>thatayush.dev</strong></a></li>
+        <li>Check my work → <a href="https://thatayush.dev"><strong>thatayush.com</strong></a></li>
       </ul>
     </td>
     <td align="right" valign="top" width="200">
